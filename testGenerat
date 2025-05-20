@@ -1,0 +1,60 @@
+1. 
+A) 
+B) 
+C) 
+D) 
+
+1. Care este secvența de implementare C++ pentru metoda alternativă?
+A) while (n > 9) { n = n / 10 - n % 10; }
+B) while (n > 9) { n = n - 10 + n % 10; }
+C) while (n > 9) { n = n * 10 + n % 10; }
+D) while (n > 9) { n = n / 10 + n % 10; }
+
+1. Cum se determină minimul dintre n numere întregi când numărul de valori este cunoscut de la început?
+A) Se inițializează min cu o valoare foarte mare și se compară fiecare număr citit.
+B) Se utilizează instrucțiunea while pentru a citi și compara numerele.
+C) Se citește fiecare număr și se actualizează min dacă numărul citit este mai mic.
+D) Se citește primul număr și se compară cu celelalte.
+
+1. Care este avantajul metodei bazate pe divizibilitatea cu 9?
+A) Este mai ușor de implementat decât celelalte metode.
+B) Numărul de operații elementare nu depinde de valoarea lui n.
+C) Este mai rapid decât celelalte metode.
+D) Este mai precis decât celelalte metode.
+
+1. Care este scopul instrucțiunii while în determinarea maximului?
+A) Pentru a afișa rezultatul.
+B) Pentru a inițializa variabila max.
+C) Pentru a compara fiecare număr citit cu max.
+D) Pentru a citi numerele până la apariția valorii 0.
+
+1. 
+A) 
+B) 
+C) 
+D) 
+
+1. 
+A) 
+B) 
+C) 
+D) 
+
+1. Ce se întâmplă dacă se utilizează instrucțiunea for pentru citirea valorilor într-un caz în care numărul de valori nu este cunoscut de la început?
+A) Se va citi un număr fix de valori.
+B) Se va citi un număr variabil de valori.
+C) Se va citi o singură valoare.
+D) Se va citi valoarea 0.
+
+1. 
+A) 
+B) 
+C) 
+D) 
+
+1. 
+A) 
+B) 
+C) 
+D) 
+
